@@ -6,7 +6,7 @@ My Portfolio project is a Codecademy project made to practice HTML/CSS/JS. Its a
 
 ### Built with
 
-![HTML5/CSS/JS logo](https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/01/html5-css3.jpg?resize=498%2C249&ssl=1)
+![HTML5/CSS/JS logo](https://phoenix.kidsoutandabout.com/sites/default/files/html_css_javascript.jpeg)
 
 Obviously using
 ![GitHub logo](https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.jpg)
